@@ -18,7 +18,7 @@
 #define RESULT_FILE_NAME  "naive.txt"
  
 #define MAX_MSIZE 1000
-#define MSIZE     500
+#define MSIZE     50
 int matrix_size = MSIZE ;
  
 float matrix_a[MSIZE][MSIZE] ;

@@ -6,4 +6,5 @@ naive:	naive.c ../test_common/test_common.h \
 	gcc -O2 -c naive.c
 	gcc -o naive naive.o test_common.o rpi_pmu.o
  
-clean:	rm naive *.o
+clean:
+	rm naive *.o

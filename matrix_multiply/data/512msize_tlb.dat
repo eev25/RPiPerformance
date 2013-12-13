@@ -1,0 +1,23 @@
+***************************************************************
+Naive matrix multiplication
+Fri Dec 13 05:17:15 2013
+
+***************************************************************
+System information
+  Number of processors:     1
+Run information
+  Outer loop instructions:  4096
+  Middle loop instructions: 2359296
+  Inner loop instructions:  1207959552
+  Total instructions:       1210322944
+  Estimated cycles:         24927000000
+  Cycles (scaled by 64):    389484375
+Performance Monitor events
+  Cycle Counter: 392576353  Processor cycles (scaled by 64)
+  Counter 0:     1406699  Data MicroTLB miss
+  Counter 1:     1007920  Main TLB miss
+
+Run execution summary
+  User time:                  35.570 sec
+  System time:                 0.040 sec
+  Elapsed time:               35.610 (0.000001 sec resolution)

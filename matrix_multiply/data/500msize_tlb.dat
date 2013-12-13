@@ -1,6 +1,6 @@
 ***************************************************************
 Naive matrix multiplication
-Fri Dec 13 01:54:27 2013
+Fri Dec 13 04:25:24 2013
 
 ***************************************************************
 System information
@@ -10,14 +10,14 @@ Run information
   Middle loop instructions: 2250000
   Inner loop instructions:  1125000000
   Total instructions:       1127254000
-  Estimated cycles:         11557000000
-  Cycles (scaled by 64):    180578125
+  Estimated cycles:         11564000000
+  Cycles (scaled by 64):    180687500
 Performance Monitor events
-  Cycle Counter: 179946477  Processor cycles (scaled by 64)
-  Counter 0:     1152091182  Executed instruction
-  Counter 1:     2926639906 (OVERFLOW)  CPU cycles
+  Cycle Counter: 180469337  Processor cycles (scaled by 64)
+  Counter 0:     602791  Data MicroTLB miss
+  Counter 1:     474919  Main TLB miss
 
 Run execution summary
-  User time:                  16.430 sec
-  System time:                 0.080 sec
-  Elapsed time:               16.510 (0.000001 sec resolution)
+  User time:                  16.500 sec
+  System time:                 0.020 sec
+  Elapsed time:               16.520 (0.000001 sec resolution)
