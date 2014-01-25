@@ -1,0 +1,4 @@
+Performance Monitor events
+  Cycle Counter: 25  Processor cycles (scaled by 64)
+  Counter 0:     0  Data MicroTLB miss
+  Counter 1:     0  Main TLB miss

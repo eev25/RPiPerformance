@@ -1,0 +1,4 @@
+Performance Monitor events
+  Cycle Counter: 24  Processor cycles (scaled by 64)
+  Counter 0:     0  Data cache access (cacheable)
+  Counter 1:     0  Data cache miss
