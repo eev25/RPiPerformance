@@ -1,4 +1,4 @@
-naive:	naive.c ../test_common/test_common.h \
+naive:  naive.c ../test_common/test_common.h \
 	../test_common/test_common.c \
 	../test_common/rpi_pmu.h  ../test_common/rpi_pmu.c
 	gcc -c ../test_common/rpi_pmu.c

@@ -1,0 +1,23 @@
+***************************************************************
+Loop nest interchange matrix multiplication
+Wed Jan 22 03:24:47 2014
+
+***************************************************************
+System information
+  Number of processors:     1
+Run information
+  Outer loop instructions:  4000
+  Middle loop instructions: 2250000
+  Inner loop instructions:  1125000000
+  Total instructions:       1127254000
+  Estimated cycles:         4669000000
+  Cycles (scaled by 64):    72953125
+Performance Monitor events
+  Cycle Counter: 71734663  Processor cycles (scaled by 64)
+  Counter 0:     131012  Data MicroTLB miss
+  Counter 1:     24811  Main TLB miss
+
+Run execution summary
+  User time:                   6.670 sec
+  System time:                 0.000 sec
+  Elapsed time:                6.670 (0.000001 sec resolution)
